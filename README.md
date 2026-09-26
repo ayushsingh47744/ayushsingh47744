@@ -66,7 +66,7 @@ I'm also actively strengthening my **Data Structures & Algorithms skills using J
 ## 💻 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,js,python,cpp" />
+<img src="https://skillicons.dev/icons?i=java,js,python" />
 </p>
 
 ---
@@ -84,20 +84,20 @@ I'm also actively strengthening my **Data Structures & Algorithms skills using J
 ## ⚙️ Backend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,django" />
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-**Technologies:** Node.js • Express.js • Django • REST APIs • Authentication • API Integration
+**Technologies:** Node.js • Express.js • REST APIs • Authentication • API Integration
 
 ---
 
 ## 🗄️ Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
-**Technologies:** MongoDB • MySQL • PostgreSQL • SQL
+**Technologies:** MongoDB • MySQL • SQL
 
 ---
 
@@ -120,10 +120,10 @@ I'm also actively strengthening my **Data Structures & Algorithms skills using J
 ## 🔧 Developer Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
-**Tools:** Git • GitHub • VS Code • Postman • NPM • GitHub Actions
+**Tools:** Git • GitHub • VS Code • Postman • GitHub Actions
 
 ---
 
@@ -259,24 +259,6 @@ I'm also actively strengthening my **Data Structures & Algorithms skills using J
 
 ---
 
-# 🩺 Diabetes Prediction Model
-
-A machine-learning based application that predicts the possibility of diabetes using health-related input features.
-
-### 🛠️ Technologies
-
-`Python` `Scikit-Learn` `Pandas` `NumPy` `Django`
-
-### 🔬 Concepts
-
-* Data preprocessing
-* Feature analysis
-* Machine learning classification
-* Model prediction
-* Django web integration
-
----
-
 # 🧠 Data Structures & Algorithms
 
 I primarily use **Java** for DSA and technical interview preparation.
@@ -364,16 +346,6 @@ I primarily use **Java** for DSA and technical interview preparation.
 
 ---
 
-# 🏆 GitHub Achievements
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ayushsingh47744&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1" width="95%"/>
-
-</p>
-
----
-
 # 🌱 Currently Learning
 
 <p align="center">
@@ -421,9 +393,9 @@ I primarily use **Java** for DSA and technical interview preparation.
 ```text
 Frontend       → React.js • Redux • Tailwind CSS
 Backend        → Node.js • Express.js • REST APIs
-Database       → MongoDB • MySQL • PostgreSQL
-Programming    → Java • JavaScript • Python • C++
-AI / ML        → Gemini • OpenAI • LangChain • Scikit-Learn
+Database       → MongoDB • MySQL 
+Programming    → Java • JavaScript • Python 
+AI / ML        → Gemini • OpenAI 
 Problem Solving→ DSA • Algorithms • Java
 Tools          → Git • GitHub • VS Code • Postman
 ```
